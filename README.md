@@ -2,7 +2,6 @@
 play >>
 
 # 贪吃蛇
-![效果展示](images/shape_go0.png)
 <p align="center">
   <img src="images/shape_go0.png" alt="图1" width="45%">
   <img src="images/shape_go1.png" alt="图2" width="45%">
