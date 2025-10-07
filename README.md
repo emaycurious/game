@@ -2,7 +2,7 @@
 play >>
 
 # 贪吃蛇
-![效果展示](images/demo1.png)
+![效果展示](images/shape_go0.png)
 
 # 俄罗斯方块
 ![效果展示](images/demo2.png)
